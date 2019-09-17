@@ -1,37 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+date: 09/17/19
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>Software Developer, Artist, and Musician</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Interests
+* Software Developer - I can create web applications in C# ASP.NET as well as Ruby on Rails and Flask. I have also built software applications with Python and Java.
+* Artist - In my free time, I love to make wire-wrapped and resin jewelry and other art with my partner. 
+    - Etsy for our handmade jewelry: https://www.etsy.com/shop/peacekeeperstudios/
+    - Instagram for our Art: https://www.instagram.com/peacekeeper_studios/
+* Musician - I was raised by two talented musicians, and now I play bass guitar in our Southern rock family band! My mother, Marcia Dodge, plays the keyboard. My father, Daniel Dodge, plays the lead guitar. My sister, Melody Dodge, plays rhythm guitar and her soon-to-be husband is our drummer.
+    - Facebook for Dodge City Band: https://www.facebook.com/DodgeCityBandSOMD/
+* Outdoor Enthusiast - When I'm not writing code, creating art or playing music, I love to be outside! I go hiking, fishing, kayaking and swimming when the weather allows.
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
