@@ -8,3 +8,5 @@ tags:
 comments: true
 ---
 
+To utilize my new Python skills, I have been learning how to build Flask web applications. I have been experimenting with development inside of Docker containers. 
+The code for this API can be found <a href="https://github.com/malorydodge/SentimentAnalysis">here</a>
