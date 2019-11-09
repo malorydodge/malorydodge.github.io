@@ -10,8 +10,6 @@ A personal website and portfolio made with Jekyll and Github Pages featuring an 
 
 * Theme by Taylan Tatlı - http://jekyllthemes.org/themes/moon/
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
