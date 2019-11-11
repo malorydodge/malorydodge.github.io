@@ -8,5 +8,5 @@ tags:
 comments: false
 ---
 
-My most recent project is an ASP.NET core web application for managing employees. I tested ASP.NET web application in my previous job which inspired me to expand on the web development in ASP.NET knowledge that I gained in my senior year of college. 
+ASP.NET core web application for managing employees. Allows viewing, editing, adding and delting employees.
 The code for this project is located <a href ="https://github.com/malorydodge/EmployeeManagement">here</a>.
